@@ -1,2 +1,2 @@
-# cg-group-37
+# Welcome to the **Computer Graphics** project!
 
